@@ -4,8 +4,6 @@
 
 Welcome to the Chat App repository! This project is a real-time messaging application built with Socket.io for instant communication between users.
 
-![Chat App Screenshot](chat-app-screenshot.png)
-
 ## Features
 
 - **Real-Time Messaging:** Instant communication between users in real-time.
