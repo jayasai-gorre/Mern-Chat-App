@@ -4,13 +4,16 @@
 
 Welcome to the Chat App repository! This project is a real-time messaging application built with Socket.io for instant communication between users.
 
+<img width="1424" alt="image" src="https://github.com/jayasai-gorre/Mern-Chat-App/assets/123870905/91610b43-0a82-4a0a-a347-f98a465ad334">
+
+
 ## Features
 
-- **Real-Time Messaging:** Instant communication between users in real-time.
-- **Online Status:** Displays online status of users.
-- **Notification Sound:** Plays a notification sound when receiving new messages.
-- **Search Bar:** Allows users to search for specific messages or users.
-- **User Interface:** Designed using Tailwind CSS and Daisy UI for a clean and responsive user interface.
+- **Real-Time Messaging:** Instant communication between users in real-time. 🕒
+- **Online Status:** Displays online status of users. 🟢
+- **Notification Sound:** Plays a notification sound when receiving new messages. 🔔
+- **Search Bar:** Allows users to search for specific messages or users. 🔍
+- **User Interface:** Designed using Tailwind CSS and Daisy UI for a clean and responsive user interface. 🎨
 
 ## Technologies Used
 
@@ -58,7 +61,4 @@ Make sure you have Node.js and npm installed on your machine.
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
